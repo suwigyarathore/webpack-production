@@ -23,7 +23,7 @@ Topics Covered:
 
 ```
 # Clone this repo
-git clone https://github.com/emiloberg/webpack-tutorial.git
+git clone https://github.com/suwigyarathore/webpack-production.git
 
 # Install dependencies
 npm install
